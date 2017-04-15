@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ViewTest</string>
+    <string name="text_release">我是正式发布版本</string>
+    <string name="text_feature1">我是分支一</string>
 </resources>
