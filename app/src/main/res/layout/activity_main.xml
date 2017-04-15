@@ -17,4 +17,15 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:onClick="showToast"
+        android:layout_marginBottom="48dp"
+        app:layout_constraintStart_toStartOf="@+id/tev_content"
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_showtoast"
+        app:layout_constraintBottom_toTopOf="@+id/tev_content"
+        />
+
 </android.support.constraint.ConstraintLayout>

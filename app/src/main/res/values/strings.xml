@@ -2,4 +2,6 @@
     <string name="app_name">ViewTest</string>
     <string name="text_release">我是正式发布版本</string>
     <string name="text_feature1">我是分支一</string>
+    <string name="text_showtoast">SHOWTOAST</string>
+    <string name="text_feature2">我是分支二</string>
 </resources>
