@@ -18,6 +18,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
+        style="@style/Widget.AppCompat.Button.Colored"
         android:onClick="showToast"
         android:layout_marginBottom="48dp"
         app:layout_constraintStart_toStartOf="@+id/tev_content"
